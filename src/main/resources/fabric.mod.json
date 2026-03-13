@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "mutant_creepers_no_explody",
+  "version": "${version}",
+  "name": "Mutant Creepers No Explody",
+  "description": "Prevents Mutant Monsters' explosions from griefing blocks and entities in OPAC-claimed areas.",
+  "authors": [
+    "Mervyn"
+  ],
+  "contact": {
+    "sources": "https://github.com/Mervyn/MutantCreepers-No-Explody"
+  },
+  "license": "AGPL-3.0-only",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.mervyn.m_creepers_no_explody.MutantCreepersNoExplody"
+    ]
+  },
+  "mixins": [
+    "mutant_creepers_no_explody.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "fabric-api": "*",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "mutantmonsters": "*"
+  },
+  "recommends": {
+    "xaeropac": "*"
+  }
+}

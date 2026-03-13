@@ -1,0 +1,12 @@
+Mutant Creepers No Explody
+License: AGPL-3.0-only
+
+This mod is a compatibility patch that references code from:
+  - Mutant Monsters (AGPLv3) by Fuzs
+  - Open Parties and Claims (LGPLv3) by Xaero
+
+As a derivative work of both, this project is licensed under
+the GNU Affero General Public License v3.0 (AGPL-3.0-only),
+which is the most restrictive compatible license.
+
+Full license text: https://www.gnu.org/licenses/agpl-3.0.html
