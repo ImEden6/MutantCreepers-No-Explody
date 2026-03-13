@@ -3,6 +3,7 @@
   "id": "mutant_creepers_no_explody",
   "version": "${version}",
   "name": "Mutant Creepers No Explody",
+  "icon": "assets/mutant_creepers_no_explody/icon.png",
   "description": "Prevents Mutant Monsters' explosions from griefing blocks and entities in OPAC-claimed areas.",
   "authors": [
     "Mervyn"
